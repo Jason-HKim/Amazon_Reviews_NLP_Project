@@ -15,3 +15,5 @@
 * I chose to remove 3 star reviews (8.01% of all reviews) from the sample of data to create a simple sentiment analysis visualization of words used in positive (5-4 star) and negative (2-1 star) reviews.
 
 * In this Scattertext, I sampled 1,000 reviews, to limit the density of the visualization
+
+![simple_sentiment_analysis_scattertext](../Visualizations/scattertest_visualization_simple_sentiment_analysis.png)
