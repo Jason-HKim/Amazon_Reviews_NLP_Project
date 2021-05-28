@@ -32,5 +32,25 @@ Visualizations:
 2. ScatterText to create initial visualization of positive/negative review word frequencies
 
 ## Visualizations
-ScatterText for Positive/Negative Words Across Entire Dataset
+ScatterText for Positive/Negative Words Across Entire Dataset:
 ![scattertext](https://github.com/Jason-HKim/NLP_Project/blob/master/Visualizations/scattertest_visualization_simple_sentiment_analysis.png)
+
+Topic Rankings for Positive Topics:
+![positive_rankings](https://github.com/Jason-HKim/NLP_Project/blob/master/Visualizations/positive_reviews_topics.png)
+
+Topic Rankings for Negative Topics:
+![negative_rankings](https://github.com/Jason-HKim/NLP_Project/blob/master/Visualizations/negative_reviews_topics.png)
+
+Top 5 Products With Highest Proportion of Positive Reviews (Among Top 20 Products with Most Reviews):
+![positive_review_pct](https://github.com/Jason-HKim/NLP_Project/blob/master/Visualizations/top_5_highest_pos_pct.png)
+
+Top 5 Products With Highest Proportion of Negative Reviews (Among Top 20 Products with Most Reviews):
+![negative_review_pct](https://github.com/Jason-HKim/NLP_Project/blob/master/Visualizations/top_5_highest_neg_pct.png)
+
+Words in Bioshock Triple Pack Positive Reviews (Top Positive Percentage):
+![bioshock_pos_words](https://github.com/Jason-HKim/NLP_Project/blob/master/Visualizations/pos_review_words_bioshock.png)
+
+
+Words in SimCity - Limted Edition Negative Reviews (Top Negative Percentage)
+![simcity_neg_words](https://github.com/Jason-HKim/NLP_Project/blob/master/Visualizations/neg_review_words_simcity.png)
+
