@@ -32,3 +32,5 @@ Visualizations:
 2. ScatterText to create initial visualization of positive/negative review word frequencies
 
 ## Visualizations
+ScatterText for Positive/Negative Words Across Entire Dataset
+![scattertext](https://github.com/Jason-HKim/NLP_Project/blob/master/Visualizations/scattertest_visualization_simple_sentiment_analysis.png)
