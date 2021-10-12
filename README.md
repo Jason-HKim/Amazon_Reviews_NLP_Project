@@ -1,5 +1,4 @@
-# Amazon_Review_NLP_Project
-## NLP for Digital Videogame Reviews on Amazon
+# NLP for Digital Videogame Reviews on Amazon
 
 ## Background & Design
 The videogame industry today is worth around $200 billion, and is only expected to rise in the near future. One outlet for game producers to sell their products is on Amazon, which currently has around 150 million prime subscribers, and many more regular customers. In order to increase their sales volumes and position in the industry, videogame companies need to better understand their customer base and their complaints or praises of their products.
